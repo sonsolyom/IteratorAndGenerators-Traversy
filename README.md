@@ -1,2 +1,3 @@
-# iterator
- asd
+# IteratorsAndGenerators-Traversy
+ Practice project for JS iterators and generators.
+
