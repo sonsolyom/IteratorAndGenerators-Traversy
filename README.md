@@ -1,2 +1,3 @@
 # iterator
- asd
+ Practice project for JS iterators
+
